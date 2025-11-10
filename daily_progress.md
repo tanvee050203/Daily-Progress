@@ -11,3 +11,11 @@ Tried to understand how amilib and other tools work
 Reading my IPCC Chapter-6 WG1
 Explored semanticclimate github repository
 
+7TH NOVEMBER –
+Set up Git and created local repository for SemanticClimate
+Cloned the semanticClimate project and verified installation
+
+8TH NOVEMBER –
+Created virtual environment and installed project dependencies
+Tested AMILib setup and verified Python environment works properly
+

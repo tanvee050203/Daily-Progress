@@ -1,7 +1,7 @@
 *DAILY PROGRESS*
 
 3TH NOVEMBER-
-Explored the SemanticClimate Getting Started page                                                                                                                      Understood project overview and workflow basics
+Explored the SemanticClimate Getting Started page                                                                                                                   Understood project overview and workflow basics
 
 4TH NOVEMBER-
 Revised the basic steps from the internship guide
@@ -17,5 +17,16 @@ Cloned the semanticClimate project and verified installation
 
 8TH NOVEMBER –
 Created virtual environment and installed project dependencies
-Tested AMILib setup and verified Python environment works properly
+AMILib setup and verified Python environment works properly
+
+10TH NOVEMBER – 
+Installed AMILib and resolved setup errors during installation.
+
+11TH NOVEMBER-
+Executed extraction script for Chapter-6 HTML.
+Generated initial summary file and verified heading extraction.
+
+12TH NOVEMBER-
+Downloaded html_with_ids.html for Chapter-6.
+Verified file and prepared for supervised keyword search step.
 

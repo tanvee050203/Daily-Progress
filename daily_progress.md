@@ -30,3 +30,10 @@ Generated initial summary file and verified heading extraction.
 Downloaded html_with_ids.html for Chapter-6.
 Verified file and prepared for supervised keyword search step.
 
+13TH NOVEMBER-
+Successfully generated full_chapter_summary.txt containing all headings, subheadings, figures, FAQs, and sections from Chapter-6.
+Understood the flow for using html_with_ids.html and confirmed chapter headings are extracted correctly.
+
+14TH NOVEMBER-
+Ran the supervised keyword search script using AMILib and generated supervised_search_results.txt with accurate keyword counts.
+

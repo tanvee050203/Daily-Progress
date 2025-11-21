@@ -1,7 +1,8 @@
 *DAILY PROGRESS*
 
 3TH NOVEMBER-
-Explored the SemanticClimate Getting Started page                                                Understood project overview and workflow basics
+Explored the SemanticClimate Getting Started page
+Understood project overview and workflow basics
 
 4TH NOVEMBER-
 Revised the basic steps from the internship guide
@@ -36,4 +37,22 @@ Understood the flow for using html_with_ids.html and confirmed chapter headings 
 
 14TH NOVEMBER-
 Ran the supervised keyword search script using AMILib and generated supervised_search_results.txt with accurate keyword counts.
+
+17TH NOVEMBER –
+Cleaned and reviewed the extracted keywords.
+Explored how other interns created dictionaries.
+
+18TH NOVEMBER-
+Tested AMILib DICT commands and understood the correct dictionary workflow.
+Prepared keywords_clean.txt and removed duplicates/noise words.
+
+19TH NOVEMBER-
+Worked on dictionary.
+Attend EPMC Meeting Session-1.
+
+20TH NOVEMBER-
+Understanding and learning about RAG-LLM Workflow.
+
+
+
 
